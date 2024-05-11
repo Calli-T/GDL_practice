@@ -1,0 +1,23 @@
+확산 모델 전반에 관하여
+https://dyddl1993.tistory.com/65
+
+좀 더 자세한듯?
+https://gyoukchu.github.io/review/review_2/
+
+https://pitas.tistory.com/9
+차이점 및 Stable Diff 설명
+
+Stable Diff Fine tuning
+https://aws.amazon.com/ko/blogs/tech/finetune-text2image-amazon-sagemaker-jumpstart-stable-diffusion/
+
+모델 다운로드와 사용법, 구조 등등 설명
+https://mallard-oh-coding.tistory.com/18
+
+원리 설명, 일반 Diffusion model과 비교도 해줌!
+https://ffighting.net/deep-learning-paper-review/diffusion-model/stable-diffusion/
+
+ddpm torch구현
+https://kyujinpy.tistory.com/123
+
+ddpm torch구현2
+https://metamath1.github.io/blog/posts/diffusion/ddpm_part2-2.html?utm_source=pytorchkr

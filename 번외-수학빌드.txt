@@ -1,0 +1,60 @@
+전체
+https://math.stackexchange.com/questions/3763403/what-skills-should-i-learn-before-going-for-a-phd-in-numerical-analysis-numeric
+
+디시글
+https://gall.dcinside.com/mgallery/board/view/?id=math&no=34250&s_type=search_subject_memo&s_keyword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&search_pos=-33864&page=1
+
+선대관련해서
+https://gall.dcinside.com/mgallery/board/view/?id=math&no=54637&s_type=search_subject_memo&s_keyword=%EB%94%A5%EB%9F%AC%EB%8B%9D&page=1
+
+딥러닝 스트랭 케이묵
+https://gall.dcinside.com/mgallery/board/view/?id=math&no=45447&search_pos=-43864&s_type=search_subject_memo&s_keyword=%EB%94%A5%EB%9F%AC%EB%8B%9D&page=1
+
+얕지만 탄탄하고 맛좋은 데이터 사이언스용 수학 블로그
+https://datascienceschool.net/02%20mathematics/10.03%20%EA%B5%90%EC%B0%A8%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%99%80%20%EC%BF%A8%EB%B0%B1-%EB%9D%BC%EC%9D%B4%EB%B8%94%EB%9F%AC%20%EB%B0%9C%EC%82%B0.html
+
+오우 미친놈인가? - 만화로 배우는 베이즈 통계학
+https://product.kyobobook.co.kr/detail/S000000562001
+
+무근본 통계학
+https://product.kyobobook.co.kr/detail/S000200053547
+
+만화로 쉽게 배우는 푸리에 해석
+https://product.kyobobook.co.kr/detail/S000000562154
+
+
+
+
+외전1 - 차원축소 알고리즘소개
+https://velog.io/@stella_y/%EC%B0%A8%EC%9B%90-%EC%B6%95%EC%86%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EB%B9%84%EA%B5%90%ED%95%B4%EB%B3%B4%EC%9E%90-PCA-T-sne-UMAP
+요약: 미1친 새끼야/umap은 성능 goat/기반이론은 좀 빡셈
+
+외전2 - 교차 엔트로피 용어의 근원_쿨백-라이블러발산이란
+https://ko.wikipedia.org/wiki/%EC%BF%A8%EB%B0%B1-%EB%9D%BC%EC%9D%B4%EB%B8%94%EB%9F%AC_%EB%B0%9C%EC%82%B0
+
+외전3 - VAE를 수학적으로 설명
+https://process-mining.tistory.com/161
+https://deepinsight.tistory.com/127
+
+외전4 - 정규화의 개념과 예시
+https://en.wikipedia.org/wiki/Normalization_(statistics)
+
+외전5 - Sinusoid 함수란?
+https://m.blog.naver.com/umchinsu/221227664234
+
+외전6 - 위치 임베딩의 원리
+https://www.blossominkyung.com/deeplearning/transfomer-positional-encoding
+
+
+해결해야할것1 - 정확하게 (컴퓨터 비전에서의) 가우시안 노이즈가 뭐냐?
+https://dacon.io/en/codeshare/4652
+원본 이미지에 평균 0, 분산 1인 확률 변수를 곱한 값을 더할 때 그것이 가우시안 노이즈
+픽셀 하나하나에 무작위로 적용인가?
+어떤 스케일 이더라도 표준 정규 분포를 따르기만 하면되는가?
+255p에서, 원본 이미지 x_0가 '정규화'되었다는 뜻은 모든 픽셀의 평균과 분산에 대해 하는 말인가?
+애초에 x_0란 무엇이란 말인가? h w c가 주어진 텐서인가?
+정규화는 channel별로 h*w에 하는것인가?
+VAE에서 latent space의 feature vector 이미지의 encode이며 1차원 벡터인데,
+이것을 정규화하는것인가?
+아니면 애시당초에 정규화에 차원은 상관없다는 뜻인가?
+이를 해결할 간단한 방법중 하나는, 가우시안 노이즈를 추가하는 코드를 까보는것이다

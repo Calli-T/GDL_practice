@@ -1,0 +1,20 @@
+matplotlib 사용법 - 얘는 코드가 바로바로 떠오르도록 익혀놓자
+
+tensorflow rocm사용법 - 코드편
+https://github.com/mpeschel10/test-tensorflow-rocm/blob/main/test_tensorflow.py
+실행옵션에 HSA_OVERRIDE_GFX_VERSION 환경변수 10.3.0으로 박아놓는거 잊지말기
+
+잔차연결에 관하여
+https://daeun-computer-uneasy.tistory.com/28
+
+확산모델에 관하여
+https://xoft.tistory.com/32
+
+우도란?
+https://xoft.tistory.com/30
+https://data-scientist-brian-kim.tistory.com/91
+
+VAE등 생성형 AI와 베이즈 통계학의 연결고리
+
+사용법을 위주로 보는 생성형 ai
+https://wikidocs.net/234115
